@@ -5,7 +5,7 @@ import Footer from "./Footer"
 const SectionFive = () => {
     return(
         <>
-            <div className="flex flex-col justify-start items-center w-[95%] m-[50px] bg-gradient-to-b to-slate-900 from-gray-950 rounded-[80px]">
+            <div className="flex flex-col justify-start items-center w-[95%] md:w-[85%] m-[50px] bg-gradient-to-b to-slate-900 from-gray-950 rounded-[80px]">
                 <div className=" w-[90%] text-white p-[20px]">
                     <div className="grid grid-cols-1 md:grid-cols-2">
                         <div>

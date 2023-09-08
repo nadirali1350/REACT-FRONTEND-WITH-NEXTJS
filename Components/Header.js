@@ -28,9 +28,9 @@ const Header = () => {
     }
     return (
         <>
-            <div className="text-[8px] flex justify-between items-center mx-[5px] my-[30px] text-white ">
+            <div className="text-[8px] flex justify-between items-center mx-[5px] my-[50px] text-white ">
                     <div>
-                        <img className='max-w-fit' src={"./Subtract.png"} alt="LOGO"></img>
+                        <img className='max-w-fit animate-spin duration-500' src={"./Subtract.png"} alt="LOGO"></img>
                     </div>
                     <div className=" flex items-center font-semibold max-lg:hidden">
                         <h1 className="m-[20px] flex">Home</h1>

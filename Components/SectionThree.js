@@ -4,7 +4,7 @@ const SectionThree = () => {
     
     return(
         <>
-            <div className="flex flex-col justify-start items-center w-[100%] md:w-[95%] m-[50px]">
+            <div className="flex flex-col justify-start items-center w-[95%] md:w-[85%] m-[50px]">
             <div className=" w-[90%] text-white p-[20px]">
                 <div className="flex flex-col-reverse md:grid md:grid-cols-3">
                     <div className="col-span-2 h-[500px] rounded-[57px] bg-slate-900">

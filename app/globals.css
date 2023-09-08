@@ -6,13 +6,13 @@
 
 @font-face {
     font-family: 'Poppins'; /* Replace with your font's name */
-    src: url('../fonts/Poppins/Poppins-Regular.ttf') format('woff2');
+    src: url('../fonts/Poppins-Regular.ttf') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
 @font-face {
   font-family: 'Blimone'; /* Replace with your font's name */
-  src: url('../fonts/Blimone/Blimone-Regular.ttf') format('woff2');
+  src: url('../fonts/Blimone-BoldInktrap.otf') format('woff2');
 }
 
 body{

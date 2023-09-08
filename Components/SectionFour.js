@@ -3,7 +3,7 @@
 const SectionFour = () => {
     return(
         <>
-        <div className="flex flex-col justify-start items-center w-[110%] md:w-[95%] m-[50px]">
+        <div className="flex flex-col justify-start items-center w-[95%] md:w-[85%] m-[50px]">
             <div className=" w-[90%] text-white p-[20px]">
                 <div className="grid grid-cols-1 md:grid-cols-3">
                     <div className="flex justify-center md:justify-start font-bold items-center">

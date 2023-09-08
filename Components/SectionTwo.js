@@ -6,7 +6,7 @@ const SectionTwo = () => {
 
     return(
         <>
-            <div class="flex flex-col justify-start items-center w-[95%] m-[50px]">
+            <div class="flex flex-col justify-start items-center w-[95%] md:w-[85%] m-[50px]">
             <div class="w-[90%] text-white p-[20px]">
                 <div class="grid grid-cols-3 md:grid-cols-6 gap-[30px] md:gap-[30px] h-[400px] max-sm:h-fit mb-[25px]">
                     <div style={{backgroundImage:'url("./1st1.jpeg")'}} class="col-span-3 rounded-[57px] flex items-end p-[20px] bg-center bg-cover" > <a href="" class="bg-black rounded-[50px] px-[26px] py-[25px] text-white font-bold">Home insurance</a></div>

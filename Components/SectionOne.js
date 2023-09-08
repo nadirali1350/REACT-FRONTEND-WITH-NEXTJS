@@ -2,7 +2,7 @@ import Header from '@/Components/Header'
 
 const SectionOne = () => {
     return (
-        <div className="flex flex-col justify-start items-center w-[95%] mt-[50px] bg-gradient-to-b from-[#0D1C2E] to-gray-950 rounded-[80px]">
+        <div className="flex flex-col justify-start items-center w-[95%] md:w-[85%] mt-8 md:mt-[50px] bg-gradient-to-b from-[#0D1C2E] to-gray-950 rounded-[50px] md:rounded-[80px]">
             <div className="SECTION1 w-[90%]">
                     
                     <Header />
