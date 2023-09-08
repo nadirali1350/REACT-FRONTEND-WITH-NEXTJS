@@ -7,8 +7,8 @@ export default function RootLayout({ children }) {
       <head>
             <script src="https://cdn.tailwindcss.com"></script>
       </head>
-      <body>
-      <div className="bg-gray-950 flex flex-col justify-center items-center max-w-[100vw] overflow-hidden">
+      <body className='flex items-center justify-center bg-gray-950'>
+      <div className="bg-gray-950 flex flex-col justify-center items-center max-w-[1920px] overflow-hidden">
         
           {children}
         

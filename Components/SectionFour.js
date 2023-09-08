@@ -18,7 +18,7 @@ const SectionFour = () => {
                             <p class="my-[20px] mx-[20px] md:mx-[0px] text-[14px] font-normal">Participate in the loyalty program. Pay for the service online to get bonuses for our other services. We have a lot of bonuses!</p>
                             <img class="mt-[30px] w-[40px] h-[40px]" src="./white.png" alt=""/>
                             <p class="my-[20px] mx-[20px] md:mx-[0px] text-[14px] font-normal">You can help other people: choose a donation fund and share the link with your friends!</p>
-                            <a className="p-[20px] mt-[10px] rounded-[130px] font-semibold text-red-400 text-[21px] border-solid text-center border-[5px] border-red-400" href="">Choose a fund</a>
+                            <a className="p-[20px] mt-[10px] rounded-[130px] md:w-full font-semibold text-red-400 text-[21px] border-solid text-center border-[5px] border-red-400" href="">Choose a fund</a>
                     </div>
                     <div className="hidden md:flex justify-end items-center">
                         <div className=" h-[565px] rounded-[340px] w-[300px] bg-cover bg-[-120px]" style={{backgroundImage:'url("./happy.jpeg")'}}></div>

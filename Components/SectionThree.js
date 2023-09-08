@@ -13,7 +13,7 @@ const SectionThree = () => {
                     <div className="h-full flex justify-center items-center m-5">
                         <div className="h-[40px] w-[40px] mr-[8px] bg-cover bg-center" style={{backgroundImage: `url(./white.png)`}}></div>
                         <div>
-                            <h1 className="text-[50px] font-bold w-[180px] leading-[50px]">
+                            <h1 style={{fontFamily:'Blimone'}} className="text-[88px] font-bold w-[180px] leading-[95%]">
                                 Our experts say
                             </h1>
                         </div>

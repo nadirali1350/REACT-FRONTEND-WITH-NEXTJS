@@ -1,7 +1,7 @@
 const Calculator = () => {
     return(
         <>
-            <div className="my-12 flex flex-row flex-wrap content-between max-sm:justify-center h-[85px]">
+            <div className="my-12 flex flex-row flex-wrap content-between max-sm:justify-center max-sm:h-[85px]">
                 {/* Radio buttons */}
                 <label>
                     <input type="radio" name="radio" id="radio1" className="peer sr-only appearance-none"/>
