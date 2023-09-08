@@ -30,7 +30,7 @@ const Header = () => {
         <>
             <div className="text-[8px] flex justify-between items-center mx-[5px] my-[30px] text-white ">
                     <div>
-                        <img src={"./Subtract.png"} alt="LOGO"></img>
+                        <img className='max-w-fit' src={"./Subtract.png"} alt="LOGO"></img>
                     </div>
                     <div className=" flex items-center font-semibold max-lg:hidden">
                         <h1 className="m-[20px] flex">Home</h1>
@@ -40,8 +40,8 @@ const Header = () => {
                         <h1 className="m-[20px]">Career</h1>
                     </div>
                     <div className="flex items-center">
-                        <a href=""><h1 className="m-[20px] bg-sky-300 rounded-[50px] px-[35px] py-[14px] text-black font-bold inline-flex">Contact us</h1></a>
-                        <a href=""><h1 className="m-[20px] font-bold flex"><img className="h-[90%] mt-[0px] mr-[10px]" src="./Union.png" alt=""></img> Login</h1></a>
+                        <a href=""><h1 className="m-[20px] w-max bg-sky-300 rounded-[50px] px-[35px] py-[14px] text-black font-bold inline-flex">Contact us</h1></a>
+                        <a href=""><h1 className="sm:m-[20px] font-bold flex"><img className="h-[90%] mt-[0px] mr-[10px]" src="./Union.png" alt=""></img> Login</h1></a>
                     </div>
                 </div>
         </>

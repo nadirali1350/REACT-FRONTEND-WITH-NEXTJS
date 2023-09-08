@@ -12,10 +12,10 @@ const SectionOne = () => {
                     </div>
                     <div class="flex justify-around w-full md:w-[25%]">
                         <div class="text-white flex flex-row sm:block w-full mt-[50px] md:ml-[70px] md:m-[40px]" style={{fontFamily: 'Poppins'}}>
-                            <img class="my-[20px] w-[40px] h-[40px]" src="./white.png" alt=""/>
-                            <p class="my-[20px] mx-[20px] md:mx-[0px] leading-[137%] text-[14px] font-semibold">Our plans are saving policyholders 30% - 60% on premiums</p>
-                            <img class="my-[20px] w-[40px] h-[40px]" src="./white.png" alt=""/>
-                            <p class="my-[20px] mx-[20px] md:mx-[0px] leading-[137%] text-[14px] font-semibold">We offer a choice of low dedactibles and include no cost value-added services</p>
+                            <img class="my-[20px] w-[40px] h-[40px] max-sm:h-[20px] max-sm:w-[20px]" src="./white.png" alt=""/>
+                            <p class="my-[20px] ml-[15px] md:mx-[0px] leading-[137%] text-[14px] font-semibold">Our plans are saving policyholders 30% - 60% on premiums</p>
+                            <img class="my-[20px] w-[40px] h-[40px] max-sm:h-[20px] max-sm:w-[20px]" src="./white.png" alt=""/>
+                            <p class="my-[20px] ml-[15px] md:mx-[0px] leading-[137%] text-[14px] font-semibold">We offer a choice of low dedactibles and include no cost value-added services</p>
                             <img class="w-[55px] h-[130px]" src="./Rectangle2.png" alt=""/>
                         </div>
                     </div>
